@@ -1,0 +1,18 @@
+// Contains map data, campus locations, and distances between them
+
+start,end,distance,time,accessible
+PL,MH,150,3,True
+PL,TSU,200,4,True
+PL,SRC,300,6,True
+MH,TSU,100,2,True
+MH,KHS,250,5,False
+KHS,LH,200,4,True
+LH,TSU,150,3,True
+SRC,TSU,250,5,True
+SRC,CP,400,8,True
+CP,TSU,300,6,True
+CP,DBH,150,3,False
+DBH,PL,200,4,True
+GAH,MH,150,3,True
+GAH,GH,200,4,True
+GH,TSU,300,6,False
