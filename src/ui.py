@@ -20,7 +20,7 @@ class CampusNavigationUI:
             "ClayesPerformanceArtCenter": (350, 603),
             "ComputerScience": (640, 485),
             "DanBlackHall": (380, 710),
-            "Engineering": (600, 485),
+            "Engineering": (600, 495),
             "EducationClassroom": (500, 545),
             "EastsideNorthParkingStructure": (730, 570),
             "EastsideSouthParkingStructure": (730, 620),
